@@ -22,7 +22,7 @@ Maggiori informazioni su [[Incorporare file]]. Ecco una sezione incorporata:
 ![[Obsidian#Cos'è Obsidian]]
 ```
 
-![[Obsidian#Cos'è Obsidian]]
+![[fr/Obsidian#Cos'è Obsidian]]
 
 ---
 

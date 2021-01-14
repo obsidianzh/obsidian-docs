@@ -15,7 +15,7 @@ Per saperne di più sui creatori, leggere la pagina [Su di noi](https://obsidian
 
 ### Informazioni sull'app
 
-- Vedere [[Obsidian|la nostra filosofia per l'app]].
+- Vedere [[it/Obsidian/Obsidian|la nostra filosofia per l'app]].
 
 ### Come iniziare
 

@@ -15,7 +15,7 @@ To read more about the makers, see the [about page](https://obsidian.md/about) o
 
 ### About the app
 
-- See [[Obsidian|our philosophy for the app]].
+- See [[en/Obsidian/Obsidian|our philosophy for the app]].
 
 ### Getting started
 

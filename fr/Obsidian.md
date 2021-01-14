@@ -37,7 +37,7 @@ La première composante est fournie par la hiérarchie tandis que la deuxième l
 
 La prise de note est vraiment une activité personnelle. Naturellement, il n'y a pas une solution globale unique pour tout le monde.
 
-Au lieu de vous fournir une application formatée et rigide, [[Obsidian]] vous donne une base solide et de nombreux outils fonctionnels pour découvrir et construire votre propre solution.
+Au lieu de vous fournir une application formatée et rigide, [[fr/Obsidian]] vous donne une base solide et de nombreux outils fonctionnels pour découvrir et construire votre propre solution.
 
 Le b-a-ba est de vous permettre de consulter vos fichiers, les éditer et de lancer des recherches. Pour une utilisation basique c'est suffisant.
 

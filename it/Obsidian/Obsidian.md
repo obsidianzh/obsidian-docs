@@ -37,7 +37,7 @@ La gerarchia ci dà il n. 1, e i collegamenti ci danno il n. 2. Non siamo ancora
 
 Prendere appunti è un'attività molto personale. Naturalmente non esiste un'unica soluzione onnicomprensiva per tutti.
 
-Anziché fornire un prodotto opinionato e assemblato, [[Obsidian]] offre una base fondativa e numerosi blocchi funzionali per scoprire e comporre una propria soluzione.
+Anziché fornire un prodotto opinionato e assemblato, [[it/Obsidian/Obsidian]] offre una base fondativa e numerosi blocchi funzionali per scoprire e comporre una propria soluzione.
 
 La base fondativa è ciò che permette di visualizzare i file, modificarli e cercarli. Per il minimalista, questo è sufficiente.
 

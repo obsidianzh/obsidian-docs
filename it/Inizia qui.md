@@ -1,6 +1,6 @@
 Ciao! Questa è una nota del Vault.
 
-Allo stesso tempo, è anche un file Markdown sul disco rigido. È tutto scritto in testo semplice, quindi, non c'è da preoccuparsi di perderla se un giorno [[Obsidian]] scomparisse.
+Allo stesso tempo, è anche un file Markdown sul disco rigido. È tutto scritto in testo semplice, quindi, non c'è da preoccuparsi di perderla se un giorno [[it/Obsidian/Obsidian]] scomparisse.
 
 ## Avvio rapido
 
@@ -15,7 +15,7 @@ Ecco alcuni posti veloci da esplorare:
 - Come [[Lavorare con più note|aprire più file fianco a fianco]].
 - Obsidian può essere "esteso" con i [[Elenco dei plugin|plugin]]. Molti di questi sono già integrati e possono essere abilitati o disabilitati in base alle proprie esigenze.
 
-Per un'introduzione più approfondita, compresa qualche informazione sulla nostra filosofia, dare un'occhiata a [[Obsidian]].
+Per un'introduzione più approfondita, compresa qualche informazione sulla nostra filosofia, dare un'occhiata a [[it/Obsidian/Obsidian]].
 
 Per un'introduzione gentile o capire come iniziare, vedere [[Basi per prendere appunti]].
 
@@ -33,7 +33,7 @@ Se già si possiede una raccolta di note in formato Markdown, è possibile subit
 
 Se si possiedono appunti su ==Roam Research==, ==Notion== o altri sistemi, [[Importazione dei dati|ecco come importarli]].
 
-Per saperne di più su Obsidian, leggere [[Obsidian|la nostra storia]].
+Per saperne di più su Obsidian, leggere [[it/Obsidian/Obsidian|la nostra storia]].
 
 A proposito, i documenti di questa guida possono essere modificati liberamente, ma ogni volta che si farà clic su "Apri un altro vault -> Aiuto", tutti i dati verranno sovrascritti. Quindi, consigliamo di non metterci dentro nulla che si desidera conservare.
 

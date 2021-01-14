@@ -23,7 +23,7 @@ Embed another file (read more about [[Embed files]]). Here's an embedded section
 ![[Obsidian#What is Obsidian]]
 ```
 
-![[Obsidian#What is Obsidian]]
+![[en/Obsidian/Obsidian#What is Obsidian]]
 
 ---
 

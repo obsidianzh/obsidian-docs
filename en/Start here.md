@@ -1,6 +1,6 @@
 Hi there! I'm a note in your vault.
 
-At the same time, I'm also just a Markdown file sitting on your hard disk. It's all in plain text, so you don't need to worry about losing me in case [[Obsidian]] disappears one day.
+At the same time, I'm also just a Markdown file sitting on your hard disk. It's all in plain text, so you don't need to worry about losing me in case [[en/Obsidian/Obsidian]] disappears one day.
 
 ## Quick Start
 
@@ -16,7 +16,7 @@ If you're in a hurry, here's some quick places to dive in:
 - Obsidian can be extended with [[List of plugins|plugins]]. Several are available by default, and can be enabled or disabled according to your needs.
 
 
-If you want a more thorough introduction, including a bit about our philosophy, check out [[Obsidian]].
+If you want a more thorough introduction, including a bit about our philosophy, check out [[en/Obsidian/Obsidian]].
 
 And if you'd like a gentle introduction, or just want to get started but don't know how, head over to [[Basic note taking]].
 
@@ -34,7 +34,7 @@ If you already have a collection of notes in markdown format, just choose them f
 
 If you have notes from ==Roam Research==, ==Notion,== or other systems,  [[Importing data|here's how to import them]].
 
-If you'd like to know more about Obsidian, you can [[Obsidian|read about our story]].
+If you'd like to know more about Obsidian, you can [[en/Obsidian/Obsidian|read about our story]].
 
 By the way, you can feel free to edit these help docs, but when you click Settings => Help => Read Help again, they will be overwritten. So, don't put anything in them you want to keep.
 

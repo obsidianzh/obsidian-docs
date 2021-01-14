@@ -164,7 +164,7 @@ Link to a page: [[Internal link]].
 
 Embed another file (read more about [[Embed files]]).
 
-![[Obsidian]]
+![[fr/Obsidian]]
 
 
 ## Developer notes
