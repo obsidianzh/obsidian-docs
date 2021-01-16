@@ -14,7 +14,7 @@ Pour ouvrir des fichiers dans de nouveaux volets, maintenez en mode Aperçu la t
 
 Pour créer d'autres mises en page, vous pouvez diviser le volet actuel en deux horizontalement ou verticalement. Pour ce faire, utilisez le menu en haut à droite du volet, utilisez la palette de commandes ou définissez un [[raccourci clavier]].
 
-![[Pasted image 16.png]]
+![[ja/アタッチメント/Pasted image 16.png]]
 
 ---
 
@@ -22,7 +22,7 @@ Pour créer d'autres mises en page, vous pouvez diviser le volet actuel en deux 
 
 C'est très utile lorsque vous travaillez sur quelque chose et que vous souhaitez utiliser les autres volets comme volets de référence temporaires. Épinglez-le afin de vous assurer qu'il ne sera jamais remplacé.
 
-![[Pasted image 17.png]]
+![[ja/アタッチメント/Pasted image 17.png]]
 
 Les volets épinglés ont leur icône punaise en surbrillance au lieu d'une icône grise.
 
@@ -38,7 +38,7 @@ Les volets liés sont indiqués par une icône de lien. Vous pouvez survoler le 
 
 Pour plus d'informations, voir [[Volets liés]].
 
-![[Pasted image 18.png]]
+![[ja/アタッチメント/Pasted image 18.png]]
 
 **5. Les volets peuvent être ==réorganisés par glisser-déposer==**.
 

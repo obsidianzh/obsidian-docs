@@ -6,7 +6,7 @@ Si tratta di uno dei plugin più cruciali che consigliamo di mantenere abilitato
 
 1. Se l'elenco dei file ingombra l'interfaccia, è possibile chiuderlo.
 
-	![[Pasted image 15.png]]
+	![[ja/アタッチメント/Pasted image 15.png]]
 
 2. Per inserire un file in un'altra cartella, è possibile trascinarlo e poi rilasciarlo.
 

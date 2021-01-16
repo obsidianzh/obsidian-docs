@@ -14,7 +14,7 @@ Per aprire un file in un nuovo pannello, tenere premuto `Ctrl/Cmd` mentre si cli
 
 Per creare una nuova disposizione dei pannelli, è possibile dividere il pannello corrente a metà orizzontalmente o verticalmente. L'operazione può essere effettuata dal menu Altre opzioni in alto a destra del pannello, dal Riquadro comandi o usando [[Tasti di scelta rapida]].
 
-![[Pasted image 16.png]]
+![[ja/アタッチメント/Pasted image 16.png]]
 
 ---
 
@@ -22,7 +22,7 @@ Per creare una nuova disposizione dei pannelli, è possibile dividere il pannell
 
 Questa soluzione è ideale quando si lavora su qualcosa mentre si usano altri pannelli come riferimenti temporanei. La funzione "Blocca" serve ad assicurarsi che il pannello non possa essere sostituito anche quando è attivo.
 
-![[Pasted image 17.png]]
+![[ja/アタッチメント/Pasted image 17.png]]
 
 I pannelli bloccati avranno l'icona a forma di puntina evidenziata anziché grigia.
 
@@ -38,7 +38,7 @@ I [[Pannelli collegati]] verranno contrassegnati dall'icona di un collegamento. 
 
 Per ulteriori informazioni, vedere [[Pannelli collegati]].
 
-![[Pasted image 18.png]]
+![[ja/アタッチメント/Pasted image 18.png]]
 
 **5. I pannelli possono essere ==riposizionati trascinandoli==**.
 

@@ -4,7 +4,7 @@ Quick Switcher vous permet de passer à d'autres notes sans quitter votre clavie
 
 Si vous souhaitez créer une nouvelle note, la saisie d'un nom unique entraînera sa création par Quick Switcher. Si le nom est assez similaire à une note existante, Quick Switcher ouvrira par défaut la note d'origine. Pour éviter cela, maintenir enfoncée `shift` forcera la création d'une nouvelle note avec n'importe quel nom dans le Quick Switcher. Cela peut être combiné avec `Cmd/Ctrl` pour créer la nouvelle note dans un nouveau volet.
 
-![[Pasted image 11.png]]
+![[ja/アタッチメント/Pasted image 11.png]]
 
 Avant de saisir quoi que ce soit, les 5 notes les plus récemment visitées seront affichées, il est donc également utile de changer rapidement de deux notes en faisant `Ctrl/Cmd + O` →` Flèche vers le bas` → `Enter`.
 

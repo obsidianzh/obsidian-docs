@@ -2,7 +2,7 @@ Shows a graph representation of the [[Internal link|internal links]] between you
 
 Notes with more notes referencing it appear as bigger nodes on the graph.
 
-![[Pasted image 10.png]]
+![[ja/アタッチメント/Pasted image 10.png]]
 
 ### Visualization tips
 

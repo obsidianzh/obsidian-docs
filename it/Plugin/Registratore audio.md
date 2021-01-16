@@ -2,7 +2,7 @@ Registratore audio è un plugin che permette di effettuare registrazioni sonore 
 
 Per usarlo, cliccare l'icona del microfono sulla barra degli strumenti a sinistra:
 
-![[Pasted image 8.png]]
+![[ja/アタッチメント/Pasted image 8.png]]
 
 Quando la registrazione è attiva, l'icona del microfono appare colorata.
 

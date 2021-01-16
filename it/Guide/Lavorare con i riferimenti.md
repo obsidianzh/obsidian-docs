@@ -2,7 +2,7 @@ I Riferimenti sono una delle funzionalità più potenti di Obsidian. Di consegue
 
 Il pannello Riferimenti ha due sezioni, Menzioni collegate e Menzioni scollegate.
 
-![[Backlinks.png]]
+![[ja/アタッチメント/Backlinks.png]]
 
 Come si può vedere da questo documento, è presente una voce per ogni sezione. In Menzioni collegate, si può vedere che è stato creato un collegamento a questo documento nella nota [[Pannelli collegati]]. In Menzioni scollegate, si può vedere che è stato menzionato il nome di questa nota ma senza creare un collegamento diretto.
 

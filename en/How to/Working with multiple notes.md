@@ -14,7 +14,7 @@ To open files in new panes, hold down `Ctrl/Cmd` while you click in Preview mode
 
 To create other layouts, you can split the current pane in half either horizontally or vertically. Do this with the menu at the top right of the pane, use the command palette, or set a [[Keyboard shortcuts]].
 
-![[Pasted image 16.png]]
+![[ja/アタッチメント/Pasted image 16.png]]
 
 ---
 
@@ -22,7 +22,7 @@ To create other layouts, you can split the current pane in half either horizonta
 
 This is great if you're working on something and want to use the other panes as temporary reference panes. Pin it to make sure it never gets replaced.
 
-![[Pasted image 17.png]]
+![[ja/アタッチメント/Pasted image 17.png]]
 
 Pinned panes will have a highlighted pin icon instead of a grey one.
 
@@ -38,7 +38,7 @@ When linked to another pane, the panes' scroll position will be synced, and if y
 
 For more information see [[Linked panes]].
 
-![[Pasted image 18.png]]
+![[ja/アタッチメント/Pasted image 18.png]]
 
 **5. Panes can be ==rearranged by dragging==**.
 

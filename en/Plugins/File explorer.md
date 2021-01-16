@@ -6,7 +6,7 @@ It's one of the crucial plugins that we recommend you to keep enabled.
 
 1. If the list of files is cluttering the interface though, you can close it:
 
-![[Pasted image 15.png]]
+![[ja/アタッチメント/Pasted image 15.png]]
 
 2. You can drag and drop to put one file into another folder.
 

@@ -1,4 +1,4 @@
-![[Search.png]]
+![[ja/アタッチメント/Search.png]]
 
 La Ricerca è una funzionalità potente e può creare confusione. Nella maggior parte dei casi funzionerà semplicemente digitando ciò che si vuole trovare. Ma Ricerca possiede anche molte funzionalità per affinare in dettaglio il campo di ricerca.
 

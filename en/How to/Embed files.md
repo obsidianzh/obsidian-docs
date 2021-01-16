@@ -1,8 +1,8 @@
 You can embed attachment files like images or audio in your notes. Use the `![[filename.png]]` syntax like so:
 
-![[Engelbart.jpg]]
+![[ja/アタッチメント/Engelbart.jpg]]
 
-![[Excerpt from Mother of All Demos (1968).ogg]]
+![[ja/アタッチメント/Excerpt from Mother of All Demos (1968).ogg]]
 
 You can embed a note also, with the same syntax:
 

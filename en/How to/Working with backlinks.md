@@ -2,7 +2,7 @@ Backlinks are one of the most powerful features of Obsidian. As a result, they c
 
 The Backlinks panel has two sections, Linked mentions and Unlinked mentions.
 
-![[Backlinks.png]]
+![[ja/アタッチメント/Backlinks.png]]
 
 As you can see, from this document, there is currently one entry in each section. Under Linked mentions you can see that I made a link to this document in the [[Linked panes]] note. But, you can also see under Unlinked mentions that I wrote the name of this note but did not make it a link.
 

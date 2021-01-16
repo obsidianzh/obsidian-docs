@@ -1,6 +1,6 @@
 # Recherches
 
-![[search.png]]
+![[ja/アタッチメント/Search.png]]
 
 La recherche est une fonctionnalité puissante et peut prêter à confusion. Dans la plupart des cas, si vous tapez simplement ce que vous voulez trouver, cela fonctionnera. Mais la recherche a de nombreuses fonctionnalités pour se restreindre à trouver exactement ce que vous voulez.
 

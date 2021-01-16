@@ -4,7 +4,7 @@ Affiche une représentation graphique des [[Internal link | liens internes]] ent
 
 Les notes les plus référencées apparaissent sous forme de nœuds plus gros sur le graphique.
 
-![[Pasted image 10.png]]
+![[ja/アタッチメント/Pasted image 10.png]]
 
 ### Conseils de visualisation
 

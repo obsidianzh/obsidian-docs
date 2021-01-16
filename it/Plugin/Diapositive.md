@@ -6,7 +6,7 @@ Diapositive permette di avviare semplici presentazioni all'interno di Obsidian.
 
 2. Per avviare una presentazione, fare clic su questo pulsante mentre una nota è aperta:
 
-![[Pasted image 14.png]]
+![[ja/アタッチメント/Pasted image 14.png]]
 
 ### Dimostrazione
 

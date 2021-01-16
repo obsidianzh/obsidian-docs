@@ -4,7 +4,7 @@ L'enregistreur audio est un plugin qui vous permet de faire un enregistrement sa
 
 Pour l'utiliser, cliquez simplement sur l'icône du microphone dans le panneau de gauche:
 
-![[Pasted image 8.png]]
+![[ja/アタッチメント/Pasted image 8.png]]
 
 Le microphone deviendra coloré pendant l'enregistrement.
 

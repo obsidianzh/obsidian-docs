@@ -4,7 +4,7 @@ Ogni raccolta di note in Obsidian è nota come Vault. Un vault è costituito da 
 
 Per creare un nuovo vault o aprire un vault esistente, fare clic sull'icona della cassaforte sopra al pulsante Impostazioni (icona con l'ingranaggio) in basso a sinistra.
 
-![[Vault picker.png]]
+![[ja/アタッチメント/Vault picker.png]]
 
 È possibile aprire una cartella di file Markdown esistenti, creare un nuovo vault (che essenzialmente è costituito da una cartella in cui inserire nuovi file markdown) o aprire un vault speciale contenente questi documenti di aiuto. Il Vault di aiuto è memorizzato in una speciale cartella di Obsidian (vedere [[Come Obsidian memorizza i dati]]) ma, a parte questo, si tratta di una semplice cartella di file come le altre.
 

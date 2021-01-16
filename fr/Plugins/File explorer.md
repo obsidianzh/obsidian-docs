@@ -9,7 +9,7 @@ C'est l'un des plugins cruciaux que nous vous recommandons de garder activé.
 
 1. Si la liste des fichiers encombre l'interface, vous pouvez la fermer:
 
-![[Pasted image 15.png]]
+![[ja/アタッチメント/Pasted image 15.png]]
 
 2. Vous pouvez glisser-déposer pour mettre un fichier dans un autre dossier.
 

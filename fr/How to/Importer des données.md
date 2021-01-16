@@ -23,7 +23,7 @@ Si vous avez des données à migrer, il est facile de les exporter pour les util
 >! [[Fireworks Complaints NYC June 1-14.png]]
 
 > 2. Cliquez sur le bouton bleu "Tout exporter" :
->! [[Pasted image 1.png]]
+>! [[ja/アタッチメント/Pasted image 1.png]]
 
 > 3. Décompressez "Roam-Export-xxxxxxxxxxxxx.zip" dans un dossier
 

@@ -22,10 +22,10 @@ Inoltre, i creatori di nvUltra, un altro programma per prendere appunti basato s
 Se si possiedono dati su Roam, è facile esportarli per gestirli in Obsidian:
 
 > 1. In Roam, scegliere "Export all" dal menu:
-> ![[Pasted image.png]]
+> ![[ja/アタッチメント/Pasted image.png]]
 
 > 2. Fare clic sul bottone blu "Export all":
-> ![[Pasted image 1.png]]
+> ![[ja/アタッチメント/Pasted image 1.png]]
 
 > 3. Estrarre il contenuto del file "Roam-Export-xxxxxxxxxxxxx.zip" in una cartella.
 

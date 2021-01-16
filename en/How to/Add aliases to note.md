@@ -8,7 +8,7 @@ For example, you might want to refer to your partner by their full name, first n
 
 ### Set aliases
 
-Starting in 0.9.16, you're able to specify the "aliases" property in a note's [[YAML front matter]] like so:
+Starting in 0.9.16, you're able to specify the "aliases" property in a note's [[en/Advanced topics/YAML front matter]] like so:
 
 ```
 ---
@@ -24,7 +24,7 @@ In the future, we'll consider more user-friendly ways to manage aliases than man
 
 Once you've set aliases for a file, you can write `[[alias]]` to link to the original page. A redirect icon will show up in the auto-complete list like so:
 
-![[Insert alises.png]]
+![[en/Attachments/Insert alises.png]]
 
 An internal link with display text will get inserted like so: `[[Add aliases to note|alias]]`.
 

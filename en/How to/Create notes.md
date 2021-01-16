@@ -4,13 +4,13 @@ Notes are created in a few ways, depending on your workflow:
  
 1. **Link-first approach**. If you like to freely create notes, just use an [[Internal link]] to link to any note name (it doesn't need to exist at the time of creating the link). To write in the newly created note, simply click on the link name. It will be automatically created in your Vault and ready to type!
 
-![[Pasted image 3.png]]
+![[ja/アタッチメント/Pasted image 3.png]]
 
 After creating it, the note title will appear in the internal link auto-completion, so you don't need to type out the note name every time. When you type `[[` a popup will come up showing all the notes in your vault. Just type until you see the one you want, and hit `Return` or click on it, and the name will be automatically filled in.
 
 If you already have folders set up in [[File explorer]], you can right-click on a folder to create notes inside it:
 
-![[Pasted image 4.png]]
+![[ja/アタッチメント/Pasted image 4.png]]
 
 There are also buttons at the top of the file explorer for creating new notes or folders. 
 

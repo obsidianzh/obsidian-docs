@@ -2,7 +2,7 @@ Les rétroliens sont l'une des fonctionnalités les plus puissantes d'Obsidian. 
 
 Le volet rétroliens comprend deux sections, Occurences liées et Occurences non liées.
 
-![[Backlinks.png]]
+![[ja/アタッチメント/Backlinks.png]]
 
 Comme vous pouvez le voir, sur cette copie d'écran, il y a actuellement une correspondance dans chaque section. Sous Occurences liées, vous pouvez voir que j'ai créé un lien vers ce document dans la note du [[Volet lié]]. Mais, vous pouvez également voir sous Occurences non liées que j'ai écrit le nom de cette note mais n'en ai pas fait un lien.
 

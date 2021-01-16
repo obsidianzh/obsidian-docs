@@ -23,7 +23,7 @@ If you have data in Roam, it's easy to export and play around with it in Obsidia
 > ![[Fireworks Complaints NYC June 1-14.png]]
 
 > 2. Click the blue "Export all" button:
-> ![[Pasted image 1.png]]
+> ![[ja/アタッチメント/Pasted image 1.png]]
 
 > 3. Unzip the "Roam-Export-xxxxxxxxxxxxx.zip" into a folder.
 

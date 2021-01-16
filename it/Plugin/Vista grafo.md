@@ -2,7 +2,7 @@ Mostra una rappresentazione grafica dei [[collegamenti interni]] tra le note.
 
 Le note coi maggiori riferimenti appaiono come nodi più grandi all'interno del grafo.
 
-![[Pasted image 10.png]]
+![[ja/アタッチメント/Pasted image 10.png]]
 
 ### Suggerimenti per la visualizzazione
 

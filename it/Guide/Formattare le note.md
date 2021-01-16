@@ -130,7 +130,7 @@ http://obsidian.md - automatico!
 http://obsidian.md - automatico!
 [Obsidian](http://obsidian.md)
 
-I collegamenti Markdown possono essere utilizzati per puntare a oggetti esterni, come pagine web, oppure per riferirsi a pagine interne o immagini. Se ci sono spazi nell'indirizzo, si può usare una sequenza di escape come `%20` al posto dello spazio, per esempio come in [Opzioni di esportazione](Pasted%20Image.png), o racchiudendo il testo in `<>`, come [Dimostrazione Diapositive](<Dimostrazione Diapositive>).
+I collegamenti Markdown possono essere utilizzati per puntare a oggetti esterni, come pagine web, oppure per riferirsi a pagine interne o immagini. Se ci sono spazi nell'indirizzo, si può usare una sequenza di escape come `%20` al posto dello spazio, per esempio come in [Opzioni di esportazione](ja/%E3%82%A2%E3%82%BF%E3%83%83%E3%83%81%E3%83%A1%E3%83%B3%E3%83%88/Pasted%20image.png), o racchiudendo il testo in `<>`, come [Dimostrazione Diapositive](<Dimostrazione Diapositive>).
 
 ---
 

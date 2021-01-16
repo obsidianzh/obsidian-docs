@@ -6,7 +6,7 @@ Slides lets you do simple presentations right inside Obsidian.
 
 2. To start a presentation, click this button after opening a note:
 
-![[Pasted image 14.png]]
+![[ja/アタッチメント/Pasted image 14.png]]
 
 ### Demo
 
