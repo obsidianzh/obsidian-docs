@@ -1,6 +1,6 @@
-如果你正在设计个性化的 CSS 主题，那么你可以使用开发者工具来提高设计效率。使用开发者工具的步骤如下：在 Windows 或 Linux 下，通过快捷键 `Ctrl+Shift+I` 唤起；在 macOS 下，通过快捷键 `Cmd+Opt+I` 唤起。
+如果你正在设计个性化的 CSS 主题，那么你可以使用开发者工具来提高设计效率。开发者工具的快捷键如下：在 Windows 或 Linux 下为 `Ctrl+Shift+I` 唤起；在 macOS 下为 `Cmd+Opt+I` 。
 
-Obsidian 会自动检测并立即应用 CSS 主题的修改。因此，你不需要重启 Obsidian 来查看修改效果。
+Obsidian 会自动检测并立即应用 CSS 主题文件的修改。因此，你不需要重启 Obsidian 来查看修改效果。
 
 # 第一次接触 CSS
 
