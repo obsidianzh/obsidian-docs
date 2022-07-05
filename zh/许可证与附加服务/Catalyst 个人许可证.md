@@ -1,46 +1,60 @@
-对于个人来说，Obsidian 是免费使用的。因此，Catalyst 个人许可证是一个按需购买的许可证。Catalyst 个人许可证将为你提供以下好处：
+对于个人来说，Obsidian 是免费使用的。所以，Catalyst 个人许可证完全是为支持开发的而存在的。
 
-1. 可以让你尽早使用 Obsidian 的最新版本，即内部版本。
-2. 在论坛和 Discord 上享受特殊的用户徽章。
-3. 来自开发者的感谢💜！毕竟这将支持 Obsidian 的开发。
+Catalyst 个人许可证并不会让你的 Obsidian 增加什么独有的功能，但可以为你提供以下好处：
 
-Catalyst 个人许可证有三个等级：25 美元（insider）、50 美元（supporter）以及 100 美元（VIP）。每个等级都能让你使用[[内部版本]]。
+- 可以让你尽早使用 Obsidian 的最新版本，即[[内部版本]]。
+- 允许访问专属的 Discord 频道——[[#专属 Discord 频道|Insider Channels]]。
+- [[#专属论坛徽章]]和[[#专属 Discord 徽章]]。
 
-需要注意的是，Catalyst 个人许可证是可选的，==它不会带来任何额外的软件功能（内部版本后续会公开发布）==。
+> [!Note] 商业使用
+> 如果你将 Obsidian 用于工作，你需要购买一个[[商用许可证]]
 
-购买或升级 Catalyst 个人许可证，请访问[我们的网站](https://obsidian.md/pricing)。
+# 许可证等级
 
-如果你将 Obsidian 用于工作，你可能需要[[商用许可证]]。
+Catalyst 个人许可证有三个等级：Insider、Supporter 和 VIP。
 
-## 问题与回答
+| 额外好处                                | Insider | Supporter |   VIP    |
+|-----------------------------------------|:-------:|:---------:|:--------:|
+| 内部版本使用权         |    ✓    |     ✓     |    ✓     |
+| 额外 Discord 开发频道 |    ✓    |     ✓     |    ✓     |
+| Insider 社区徽章                |    ✓    |           |          |
+| Supporter 社区徽章                |         |     ✓     |          |
+| VIP 社区徽章                      |         |           |    ✓     |
+| **Pricing**                             | **25美元** |  **50美元**  | **100美元** |
 
-### 购买之后我该如何获得用户徽章？
+> [!info] 升级许可证
+> 当你已经有一个个人许可证时，你可以通过支付差价来升级到更高级的许可证。
 
-购买之后你会在用户信息页面上看到两个按钮：
+# 获得许可证的好处
 
-#### Discord 徽章
+Catalyst 个人许可证可以为你提供以下好处。
 
-==要获得 Discord 徽章，请确认你加入了我们的 [Discord](https://discord.gg/veuWUTm) 。==
+## 专属论坛徽章
 
-然后，你只需要在[你的用户页面](https://obsidian.md/account)，点击 “Get Discord badge”（获得 Discord 徽章）即可。随后，系统就会自动为你添加 Discord 徽章。
+拥有 Catalyst 个人许可证的用户可以获得专属的论坛徽章。不过需要注意的是，要获得徽章需要你 Obsidian 账号和论坛账号的邮箱地址一样，这样才能通过你的 Obsidian 账号关联你的论坛账号。如果论坛账号使用的邮箱和购买账号的邮箱不一致的话，系统将无法为你自动添加徽章。因此，你需要更改论坛账号的邮箱，使其与购买账号一致。
 
-#### 论坛徽章
-==需要注意，要获得论坛徽章，请先在我们的[论坛](https://forum.obsidian.md)上使用同一邮箱注册一个账号。==
+获得论坛徽章需要完成以下步骤：
 
-然后，你只需要在[你的用户页面](https://obsidian.md/account)，点击“Get forum badge” （获得论坛徽章）即可。随后，系统就会自动为你添加论坛徽章。
+1. 如果你还没有论坛账号，请加入[论坛](https://forum.obsidian.md/)。
+2. 打开你 Obsidian 账号的 [账户页面](https://obsidian.md/account)。
+3. 在 **Your license** -> **Obsidian Catalyst**，点击 **Get forum badge**。
+4. 随后，系统就会自动为你添加论坛徽章。
 
-如果论坛账号使用的邮箱和购买账号的邮箱不一致的话，系统将无法为你自动添加徽章。因此，你需要更改论坛账号的邮箱，使其与购买账号一致。
+## 专属 Discord 徽章
 
-需要注意的是，徽章并不是论坛系统里看不见摸不着的“成就”，而是在你发帖时醒目的身份标志。
+获得 Discord 徽章需要完成以下步骤：
 
-### 购买 Catalyst 后我能获得什么？
+1. 如果你还没有加入我们的 Discord，请在 [这里](https://discord.gg/veuWUTm)加入。
+2. 打开你 Obsidian 账号的 [账户页面](https://obsidian.md/account)。
+3. 在 **Your license** -> **Obsidian Catalyst**，点击 **Get Discord badge**。
+4. 随后，系统就会自动为你添加 Discord 徽章。
 
-成为 Catalyst 后，你可以使用[[内部版本]]。除此之外，如果你是 Suppoter 或 VIP 级别用户的话，你还可以进入一个额外的 Discord 频道与其他 Suppoter 或 VIP 用户一同讨论、聊天。
+## 专属 Discord 频道
 
-当我们对某个重大功能进行封闭内测时（比如移动端或是所见即所得模式），我们将优先对 VIP 用户开放测试资格，随后是 Supporter，再是 Insider。最后，等功能完全稳定后，才给普通用户开放。
+获得 Catalyst 个人许可证的用户可以在专属的 Discord 频道中和其他购买了许可证的用户一起，与 Obsidian 开发团队交流沟通。
 
-### Catalyst 支持什么付款方式？
+在你获得了[[#专属 Discord 徽章]]后，你会自动加入这个频道。
 
-我们的网站支持信用卡以及部分借记卡付款。这种付款方式最便捷也最安全。
+## 内部版本使用权
 
-当然，如果你希望使用 PayPal 或微信支付，这也是可以的。具体支付方式请登录我们的网页后点击购买 Catalyst 按钮，随后弹出的页面中会有详细的支付说明。
+见 [[内部版本]]
