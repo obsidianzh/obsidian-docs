@@ -1,58 +1,123 @@
-## 什么是 Obsidian
+## What is Obsidian
 
-Obsidian 既是一个 Markdown 编辑器，也是一个知识管理软件。
+Obsidian is both a Markdown editor and a knowledge base app.
 
-你可以简单地将 Obsidian 作为一个 Markdown 编辑器，来编辑、预览 Markdown 文件。但如果你希望更好地使用它，请记住它真正的力量在于管理密集的网络化知识库。
+Used in the most basic way, you can edit and preview Markdown files. But its true power lies in managing a densely networked knowledge base.
 
-如何开始创建一个知识网络？请先从创建一条[[内部链接]]开始！
+How do we start creating a network, you ask? Let's first start making some [[Internal links]]!
 
-## 跟其他软件有何不同
+## How we're different
 
-==*我们希望你拥有并掌控你的数据*==
+### You own and control your data
 
-我们相信，纯文本的知识形式与你知识库本身同样重要。这就好比你不会想把自己的脑袋放到别人的脖子上。所以，我们要以一样的方式对待我们的第二大脑——若不愿受制于人，则勿以笔记数据安全为儿戏。
+We believe in plain text for something as important as your knowledge base. You don't want to put your own brain over someone else's neck, do you? Treat your second brain the same way.
 
-对于 Obsidian 来说，同步服务仅仅是作为多设备间同步的方案，笔记数据将优先并且始终存储在你的本地硬盘上。
+Sync is only a utility to facilitate working on multiple devices, the data will always primarily live on your hard disk.
 
-由于 Obsidian 采用本地而非纯云端的文件管理方式，因此你可以更灵活地处理你的笔记数据：你可以使用 Dropbox 备份它们，使用 Git 来进行版本管理，或者在你的硬盘上对它们进行加密以提高安全性……任何对你的文件系统有效的方式都会对你在 Obsidian 中的知识库有效。
+When the file system replaces the cloud, you get flexible options to work with your files: you can back them up with Dropbox, use Git to do versioning, or encrypt your disk for security. Whatever works on your file system will work on your Obsidian knowledge base.
 
-==*链接是第一优先梯队*==
+### Links are first-class citizens
 
-链接可以为我们提供一座知识探索与发现的桥梁，它对于发现已知事物之间的关系至关重要。
+Links and connections are crucial to discovering the relations between what we know.
 
-这正是 Obsidian 的价值所在，也是我们推荐使用[[内部链接]]和[[关系图谱]]以及其他诸多功能的原因。
+Obsidian greatly values this, and encourages it with [[Internal links]] and [[Graph view]], among other things.
 
-正如 John Locke 所说
+As John Locke puts it...
 
-> 思维活动由小溪缓流，渐而入海成洋，无外乎以下三种情况：
-> 1. 将诸多简单的小想法汇聚到一起，成为一个更加庞大的系统，这是所有复杂思维的形成过程。
-> 2. 第二种是将两个想法，不论他们是简单的还是复杂的，收集起来，然后将他们放在一起进行比较但不进行合并。此举将可比较二者的优劣关联。
-> 3. 第三种方式是将他们从实际生活中脱离出来：这被成为抽象思维。这是所有的普适思维产生的方式。
+> The acts of the mind, wherein it exerts its power over simple ideas, are chiefly these three:
+>
+> 1. Combining several simple ideas into one compound one, and thus all complex ideas are made.
+> 2. The second is bringing two ideas, whether simple or complex, together, and setting them by one another so as to take a view of them at once, without uniting them into one, by which it gets all its ideas of relations.
+> 3. The third is separating them from all other ideas that accompany them in their real existence: this is called abstraction, and thus all its general ideas are made.
 
  \- John Locke, An Essay Concerning Human Understanding (1690)
- 
- 分类为我们带来了第一种笔记思维，链接给了我们第二种。我们仍未确定是否需要第三种笔记思维，如果它诞生的话，或许会跟编程或者宏指令有些关联吧。
- 
- ==*你的私人工具箱*==
- 
- 记笔记是一个高度私人化的行为，因而没有一种方式可以做到普适大众。
- 
- 比起固执己见地为你决定好一切，[[Obsidian]] 更愿意通过插件为你提供多种可选功能，让你可以依照自身需求进行个性化定制。
- 
-Obsidian 为你提供了文件浏览、文件编辑、文件搜索等插件。对于极简主义者来说，这已然足够。
- 
- 当然，你也可以使用其他多种插件，来为你的笔记记录增光添彩：
- 
- - 如果你希望记录课堂笔记，那么[[录音机]]和 LaTeX 公式或许会很有帮助。
- - 如果你希望记录工作笔记，[[幻灯片]]和[[反向链接]]或许能助你一臂之力 。
- - 如果你是一个科研工作者，[[关系图谱]]和[[字数统计]]将是你必不可少的利器。
 
-我们不期望插件能成为解决所有问题的灵丹妙药，但它们确实比那些希望集成所有功能的单一解决方案更贴近我们的个性化需求，也使界面更加简洁。
+Hierarchy gives us No. 1, and linking gives us No. 2. We're still unsure what No. 3 entails in the context of note-taking, but it might have something to do with programming or macros.
 
-现在，我们支持[[自定义 CSS 主题]]并且开发了[[第三方插件|插件 API]]，这将使 Obsidian 能支持那些更小众的使用方法，更加个性化。
+### Your own toolkit
 
-## 关注我们的进展
+Note-taking is a highly personal activity. Naturally there is no single all-encompassing solution for everyone.
 
-Obsidian 目前正在公开测试。如果想了解我们的开发计划，可以查看我们的[发展规划](https://trello.com/b/Psqfqp7I/obsidian-roadmap)。
+Instead of providing you with an opinionated and assembled product, [[Obsidian]] gives you a foundation and numerous functional building blocks  to discover and build your own solution.
 
-我们的推特订阅地址是 [@obsdmd](https://twitter.com/obsdmd)，欢迎关注。当 Obsidian 有了更新，我们会及时地在上面发布通知。
+The foundation is to be able to view files, edit them, and search them. For the minimalist, that's enough.
+
+On top of that, you can add isolated, independent building blocks to add features to your note-taking:
+
+- If you're taking class notes, [[Audio recorder]] and LaTeX math might be useful;
+- If you're taking work notes, [[Slides]] and [[Backlinks]] may come in handy;
+- If you're a researcher, [[Graph view]] and [[Word count]] might be essential to your toolkit.
+
+We don't expect plugins to be the silver bullet to solve all the problems, but it does get us closer than a monolith solution, without all the features that you don't need cluttering the interface.
+
+We support [[CSS snippets]], [[Themes]], and [[Community plugins]], which enable even more interface customization and support less common use cases.
+
+## Follow our development
+
+Curious how we continue to make Obsidian the best and most refined tool for thought-processing? Check out our [roadmap](https://obsidian.md/roadmap/) to see what we're working on.
+
+Our Twitter handle is [@obsdmd](https://twitter.com/obsdmd), feel free to follow. We mostly tweet about product updates.
+
+
+---
+
+中文翻译：
+## 什么是 Obsidian
+
+Obsidian既是一个Markdown编辑器，也是一个知识库应用程序。
+
+在最基本的用法中，你可以编辑和预览Markdown文件。但其真正的力量在于管理一个高度网络化的知识库。
+
+你想知道如何开始创建一个网络？让我们首先开始制作一些[[内部链接]]！
+
+## 我们的不同之处
+
+### 拥有并掌控你的数据
+
+对于像知识库这样重要的东西，我们坚信纯文本是最好的选择。你不想将你的大脑放在别人的脖子上，对吧？对待你的第二大脑也应该如此。
+
+同步仅是一个工具，用于方便在多个设备上工作，数据始终主要存储在你的硬盘上。
+
+当文件系统取代云端时，你将获得灵活的选项来处理你的文件：你可以使用Dropbox备份它们，使用Git进行版本控制，或者加密你的硬盘以确保安全。无论在你的文件系统上如何操作，都会在你的Obsidian知识库中起作用。
+
+### 链接是头等公民
+
+链接和连接对于发现我们所知之间的关系至关重要。
+
+Obsidian非常重视这一点，并通过[[内部链接]]和[[图形视图]]等方式鼓励这种联系。
+
+正如约翰·洛克所说...
+
+> 头脑的行为，在这些行为中，头脑发挥其对简单思想的力量，主要有以下三种：
+>
+> 1. 将几个简单的思想组合成一个复合思想，从而形成所有的复杂思想。
+> 2. 第二个是将两个思想，无论是简单的还是复杂的，放在一起，使它们相互对比，一次性地观察它们，而不将它们合并成一个，从中获得所有关系的思想。
+> 3. 第三个是将它们与其他伴随其存在的所有思想分开：这被称为抽象，从而形成所有的概念思想。
+
+ \- 约翰·洛克，《人类理解论》（1690年）
+
+层次结构给我们第一种，链接给我们第二种。至于笔记中第三种意味着什么，我们仍不确定，但可能与编程或宏有关。
+
+### 你自己的工具箱
+
+笔记是一项非常个人化的活动。自然而然，没有适合所有人的单一全面解决方案。
+
+与其为你提供一个主观而组合的产品，[[Obsidian]]为你提供了一个基础和众多功能性构建模块，让你去发现和建立你自己的解决方案。
+
+基础是能够查看文件、编辑文件和搜索文件。对于追求极简的人来说，这就足够了。
+
+除此之外，你可以添加独立的构建模块来为你的笔记添加功能：
+
+- 如果你在做课堂笔记，[[录音机]]和LaTeX数学可能会有用；
+- 如果你在做工作笔记，[[幻灯片]]和[[反向链接]]可能会派上用场；
+- 如果你是一名研究人员，[[图形视图]]和[[字数统计]]可能是你工具箱中不可或缺的部分。
+
+我们并不指望插件能够解决所有问题，但它确实比单一解决方案更接近，而不需要你不需要的所有功能来混淆界面。
+
+我们支持[[CSS代码片段]]、[[主题]]和[[社区插件]]，这些能够进一步定制界面，支持不太常见的使用场景。
+
+## 关注我们的发展
+
+想知道我们如何继续使Obsidian成为最好和最精致的思维处理工具吗？查看我们的[路线图](https://obsidian.md/roadmap/)，了解我们正在做什么。
+
+我们的Twitter账号是[@obsdmd](https://twitter.com/obsdmd)，欢迎关注。我们主要发布关于产品更新的推文。
