@@ -30,15 +30,15 @@ You can also browse this site in the following languages:
 
 If you're new to Obsidian, learn the basics of note-taking with Obsidian using our guides:
 
-1. [[Download and install Obsidian]]
-2. [[Create a vault]]
-3. [[Create your first note]]
-4. [[Link notes]]
-5. [[Import notes]]
+1. [[下载与安装]]
+2. [[创建仓库]]
+3. [[创建第一篇笔记]]
+4. [[链接笔记]]
+5. [[导入笔记]]
 
-From here, you can build your own custom experience by enabling additional features through _plugins_. Explore the [[Core plugins]] that ship with Obsidian, or any of our [[Community plugins]].
+From here, you can build your own custom experience by enabling additional features through _plugins_. Explore the [[Core plugins]] that ship with Obsidian, or any of our [[第三方插件]].
 
-Customize the look and feel of Obsidian using [[Themes]] and [[CSS snippets]].
+Customize the look and feel of Obsidian using [[主题]] and [[CSS 代码片段]].
 
 ## Add-on services
 

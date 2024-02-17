@@ -4,7 +4,7 @@ Any files or settings that have been synced to your [[Local and remote vaults|re
 Synced files remain in your remote vault even if you exclude them later on. If possible, configure the files and settings you want to sync before you start syncing your vault.
 
 **Sync does not sync .hidden folders:**
-`.hidden` folders will not sync, with the exception of the [[configuration folder]], as these are considered folders hidden from the filesystem.
+`.hidden` folders will not sync, with the exception of the [[设置文件夹]], as these are considered folders hidden from the filesystem.
 
 Common examples include `.vscode`, `.git`, and `.idea`.
 
@@ -62,7 +62,7 @@ By default, Obsidian syncs all files and folders in your vault. If you don't wan
 
 ## Create a settings profile
 
-Obsidian Sync can sync multiple [[Configuration folder|configuration folders]] to the same remote vault. You can use this to create different profiles, for example one for mobile devices and another for your laptop.
+Obsidian Sync can sync multiple [[设置文件夹|configuration folders]] to the same remote vault. You can use this to create different profiles, for example one for mobile devices and another for your laptop.
 
 To set your settings folder:
 

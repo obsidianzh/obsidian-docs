@@ -1,7 +1,7 @@
 ---
 permalink: import/html
 ---
-Obsidian allows you to easily import individual HTML files and entire folders of HTML files using the official [[Importer|Importer plugin]]. This is useful if you want to save whole websites to [[Obsidian Flavored Markdown|Markdown]] format, or if you want to import data from a tool that exports to HTML. 
+Obsidian allows you to easily import individual HTML files and entire folders of HTML files using the official [[Importer|Importer plugin]]. This is useful if you want to save whole websites to [[Obsidian 风格的 Markdown 语法|Markdown]] format, or if you want to import data from a tool that exports to HTML. 
 
 If you are importing notes from a specific app, you may want to first review the list of apps supported by [[Importer|Importer plugin]] to check if there is a specific converter that will better preserve the data you are migrating.
 
@@ -29,7 +29,7 @@ You will need the official Obsidian [[Importer]] plugin, which you can [install 
 ---
 permalink: import/html
 ---
-Obsidian 允许您使用官方[[Importer|Importer插件]]轻松导入单个 HTML 文件和整个 HTML 文件夹。如果您想将整个网站保存为[[Obsidian Flavored Markdown|Markdown]]格式，或者想要从导出为 HTML 的工具中导入数据，这将非常有用。
+Obsidian 允许您使用官方[[Importer|Importer插件]]轻松导入单个 HTML 文件和整个 HTML 文件夹。如果您想将整个网站保存为[[Obsidian 风格的 Markdown 语法|Markdown]]格式，或者想要从导出为 HTML 的工具中导入数据，这将非常有用。
 
 如果您要从特定应用程序导入笔记，建议首先查看[[Importer|Importer插件]]支持的应用程序列表，以检查是否有特定的转换器可以更好地保留您要迁移的数据。
 

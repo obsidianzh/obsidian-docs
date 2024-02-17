@@ -128,7 +128,7 @@ Since Obsidian stores notes in a local folder on your Android device, you can al
 
 You can utilize the ability to change your configuration folder per device, to maintain device specific settings even when using a syncing service. 
 
-![[Configuration folder#Changing your config folder]]
+![[设置文件夹#Changing your config folder]]
 
 
 ---
@@ -265,4 +265,4 @@ Obsidian 在 iOS 上的工作方式与其他 Markdown 编辑器不同。诸如 1
 
 你可以利用每台设备更改配置文件夹的功能，以保持设备特定设置，即使使用同步服务也可以。
 
-![[Configuration folder#Changing your config folder]]
+![[设置文件夹#Changing your config folder]]

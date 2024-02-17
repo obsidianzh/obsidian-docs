@@ -9,7 +9,7 @@ Publish only searches page names and headings. Full text search will be added in
 
 ## Community plugins
 
-Obsidian Publish has minimal support for [[Community plugins]]. 
+Obsidian Publish has minimal support for [[第三方插件]]. 
 
 Plugins which output in raw markdown, such as the Waypoint plugin, are compatible with Publish because they do not require the application to render their data. 
 
@@ -32,7 +32,7 @@ Whereas a plugin that requires a plugin codeblock to render, such as Dataview or
 
 ## 社区插件
 
-Obsidian Publish 仅对[[Community plugins|社区插件]]提供有限支持。
+Obsidian Publish 仅对[[第三方插件|社区插件]]提供有限支持。
 
 像 Waypoint 插件这样输出原始 Markdown 的插件与 Publish 兼容，因为它们不需要应用程序渲染它们的数据。
 

@@ -70,8 +70,8 @@ Interested in applying some skills and free time to Obsidian? Here is where we c
 
 - Help your fellow Obsidian users out by answering questions on our [discord server](https://discord.gg/obsidianmd), our [forum](https://forum.obsidian.md/), or the [ObsidianMD](https://old.reddit.com/r/ObsidianMD/) reddit.
 - [[开发者]], we could really use your help on expanding our [Obsidian Developer Documentation](https://github.com/obsidianmd/obsidian-developer-docs). 
-- Do you know any written language besides English? Consider assisting with our [[Translations]] into other languages.
-- Is there something in these help docs that are out of date, or confusing? Grab the [[Style guide]] and submit an [issue and pull request](https://github.com/obsidianmd/obsidian-help/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc).
+- Do you know any written language besides English? Consider assisting with our [[翻译]] into other languages.
+- Is there something in these help docs that are out of date, or confusing? Grab the [[文档规范]] and submit an [issue and pull request](https://github.com/obsidianmd/obsidian-help/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc).
 - If able, you can [[捐赠|financially contribute]] by utilizing one of our paid addons. 
 
 ---

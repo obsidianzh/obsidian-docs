@@ -11,7 +11,7 @@ Use aliases for things like acronyms, nicknames, or to refer to a note in a diff
 
 ## Add an alias to a note
 
-To add an alias for a note, add `aliases` property in the note [[Properties]]. Aliases should always be formatted as a list in YAML.
+To add an alias for a note, add `aliases` property in the note [[属性]]. Aliases should always be formatted as a list in YAML.
 
 ```md
 ---

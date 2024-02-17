@@ -33,11 +33,11 @@ Review the updated selection to make sure it doesn't include any notes that you'
 
 ## Automatically select notes to publish
 
-To automatically select a note to be published, set `publish: true` in the [[Properties]] for the note.
+To automatically select a note to be published, set `publish: true` in the [[属性]] for the note.
 
 ## Ignore notes
 
-To ignore a note in Obsidian Publish, set `publish: false` in the [[Properties]] for the note.
+To ignore a note in Obsidian Publish, set `publish: false` in the [[属性]] for the note.
 
 The note no longer shows up in the list of notes to publish.
 
@@ -57,7 +57,7 @@ Into this:
 https://publish.obsidian.md/username/about
 ```
 
-To create a permalink for a note, add the `permalink` property to your [[Properties]].
+To create a permalink for a note, add the `permalink` property to your [[属性]].
 
 ```yaml
 ---

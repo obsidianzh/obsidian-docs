@@ -59,13 +59,13 @@ Some operators even allow you to add a nested search term within parentheses, fo
 | `line:`         | Find matches on the same line.<p/>Example: `line:(mix flour)`.                                                                                                                                                       |
 | `block:`        | Find matches in the same block.<p/>Example: `block:(dog cat)`.<p/>**Note**: Since `block:` requires Search to parse the Markdown content in every file, it can cause your search term to take longer time to finish. |
 | `section:`      | Find matches in the same section (text between two headings).<p/>Example: `section:(dog cat)`.                                                                                                                         |
-| `task:`         | Find matches in a [[Basic formatting syntax#Task lists\|task]] on a block-by-block basis.<p/>Example: `task:call`.                                                                                                          |
-| `task-todo:`    | Find matches in an *uncompleted* [[Basic formatting syntax#Task lists\|task]] on a block-by-block basis.<p/>Example: `task-todo:call`.                                                                                      |
-| `task-done:`    | Find matches in a *completed* [[Basic formatting syntax#Task lists\|task]] on a block-by-block basis.<p/>Example: `task-done:call`.                                                                                         |
+| `task:`         | Find matches in a [[基本格式语法#Task lists|task]] on a block-by-block basis.<p/>Example: `task:call`.                                                                                                          |
+| `task-todo:`    | Find matches in an *uncompleted* [[基本格式语法#Task lists|task]] on a block-by-block basis.<p/>Example: `task-todo:call`.                                                                                      |
+| `task-done:`    | Find matches in a *completed* [[基本格式语法#Task lists|task]] on a block-by-block basis.<p/>Example: `task-done:call`.                                                                                         |
 
 ## Search properties
 
-You can use data stored in [[Properties]] in your search terms.
+You can use data stored in [[属性]] in your search terms.
 
 Use brackets around a property name `[property]` to return files with that property:
 
@@ -219,7 +219,7 @@ embed OR search
 
 ## 搜索属性
 
-你可以在搜索词中使用存储在[[Properties]]中的数据。
+你可以在搜索词中使用存储在[[属性]]中的数据。
 
 用方括号括起属性名称 `[属性]` 以返回具有该属性的文件：
 

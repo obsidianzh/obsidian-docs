@@ -1,4 +1,4 @@
-The Properties view plugin adds two sidebar views that you can use to manage [[Properties]]:
+The Properties view plugin adds two sidebar views that you can use to manage [[属性]]:
 
 - **File properties** shows a view of the properties for the active note.
 - **All properties** shows a list of all the properties in your vault and they type.

@@ -6,7 +6,7 @@ aliases:
 ---
 Obsidian allows you to customize hotkeys, also known as keyboard shortcuts.
 
-Default hotkeys are only defined for the most commonly used [[Command palette|commands]]. If you frequently use a command, you can define a hotkey for it. See also [[Editing shortcuts]].
+Default hotkeys are only defined for the most commonly used [[Command palette|commands]]. If you frequently use a command, you can define a hotkey for it. See also [[编辑相关的快捷键]].
 
 ### Viewing hotkeys
 
@@ -32,7 +32,7 @@ aliases:
 ---
 在 Obsidian 中，你可以自定义快捷键，也称为键盘快捷键。
 
-默认情况下，只为最常用的[[Command palette|命令]]定义了快捷键。如果你经常使用某个命令，可以为其定义一个快捷键。另请参阅[[Editing shortcuts|编辑快捷键]]。
+默认情况下，只为最常用的[[Command palette|命令]]定义了快捷键。如果你经常使用某个命令，可以为其定义一个快捷键。另请参阅[[编辑相关的快捷键|编辑快捷键]]。
 
 ### 查看快捷键
 
