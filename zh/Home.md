@@ -62,7 +62,7 @@ Customize the look and feel of Obsidian using [[主题]] and [[CSS 代码片段]
 
 If you find any mistakes or missing information on this site, you can contribute improvements and translations via [the GitHub repo](https://github.com/obsidianmd/obsidian-docs/).
 
-If you want to support Obsidian financially, consider a [[Catalyst license]], which offers early access to beta versions of Obsidian.
+If you want to support Obsidian financially, consider a [[Catalyst 个人许可证]], which offers early access to beta versions of Obsidian.
 
 See the [[Credits]] to get to know all the amazing people who made Obsidian possible.
 
@@ -132,6 +132,6 @@ cssclasses:
 
 如果发现本站点有任何错误或遗漏信息，欢迎通过 [GitHub 仓库](https://github.com/obsidianmd/obsidian-docs/) 参与改进和翻译。
 
-如果想在财务上支持 Obsidian，请考虑购买 [[Catalyst 许可证]]，该许可证提供 Obsidian beta 版本的提前访问。
+如果想在财务上支持 Obsidian，请考虑购买 [[Catalyst 个人许可证]]，该许可证提供 Obsidian beta 版本的提前访问。
 
 查看[[鸣谢]]以了解所有让 Obsidian 成为可能的了不起的人们。

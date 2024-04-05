@@ -39,14 +39,14 @@ To create a subfolder:
 1. Right-click the file you want to delete, and then click **Delete**.
 2. If prompted to confirm that you want to delete the file, click **Delete**.
 
-For more information, refer to [[Manage notes#Delete a file]].
+For more information, refer to [[管理笔记#Delete a file]].
 
 ## Rename a file or folder
 
 1. Right-click the file you want to rename, and then click **Rename**.
 2. Type the new name, and the press Enter.
 
-For more information, refer to [[Manage notes#Rename a note]].
+For more information, refer to [[管理笔记#Rename a note]].
 
 ## Move a file or folder
 

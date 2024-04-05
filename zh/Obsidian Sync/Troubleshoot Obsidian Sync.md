@@ -1,6 +1,6 @@
 This page lists common issues that you might encounter, and how to address them.
 
-![[Sync your notes across devices#^sync-files-on-demand]]
+![[同步笔记#^sync-files-on-demand]]
 
 ## Conflict resolution
 

@@ -19,9 +19,9 @@ In the Obsidian desktop app the workspace includes:
 In the Obsidian mobile app the workspace includes:
 
 - [[Tabs]]
-- [[Use the mobile app|Editor toolbar]] which appears above the keyboard when editing
+- [[移动端应用|Editor toolbar]] which appears above the keyboard when editing
 - [[Sidebar|Sidebars]] can be opened using left and right swipe gestures
-- [[Use the mobile app#Navigation bar|Navigation bar]] at the bottom of the screen
+- [[移动端应用#Navigation bar|Navigation bar]] at the bottom of the screen
 	- [[Ribbon|Ribbon menu]] contains customizable actions
 
 ---

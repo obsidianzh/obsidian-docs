@@ -3,7 +3,7 @@ aliases:
   - Concepts/Insider builds
   - Insider builds
 ---
-Get early access to upcoming releases by enabling _early access versions_. Early access versions are only available to users with a [[Catalyst license]].
+Get early access to upcoming releases by enabling _early access versions_. Early access versions are only available to users with a [[Catalyst 个人许可证]].
 
 > [!warning]
 > Early access versions are beta releases. They include new features but may be less stable. Don't enable early access versions if you prefer a more reliable experience.
@@ -23,7 +23,7 @@ To receive early access versions as soon as they're available, follow these step
 To find instructions on how to install early access versions on your mobile device, follow these steps:
 
 1. Join the [Obsidian Discord server](https://discord.gg/veuWUTm).
-2. [[Catalyst license#Get your Discord badge|Get your Discord badge]] to access insider channels.
+2. [[Catalyst 个人许可证#Get your Discord badge|Get your Discord badge]] to access insider channels.
 3. Open Discord.
 4. In the `#insider-mobile-release` channel, open **Pinned Messages**.
    - On desktop, select the pushpin icon in the upper-right corner.
@@ -77,7 +77,7 @@ aliases:
   - 概念/内部版本
   - 内部版本
 ---
-通过启用_早期访问版本_，您可以提前获得即将发布的版本。早期访问版本仅向持有[[Catalyst 许可证]]的用户开放。
+通过启用_早期访问版本_，您可以提前获得即将发布的版本。早期访问版本仅向持有[[Catalyst 个人许可证]]的用户开放。
 
 > [!警告]
 > 早期访问版本是测试版发布，其中包含新功能，但可能不够稳定。如果您更希望获得更可靠的体验，请不要启用早期访问版本。
@@ -97,7 +97,7 @@ aliases:
 要找到如何在移动设备上安装早期访问版本的说明，请按照以下步骤操作：
 
 1. 加入[Obsidian Discord 服务器](https://discord.gg/veuWUTm)。
-2. [[Catalyst 许可证#获取您的 Discord 徽章|获取您的 Discord 徽章]]以访问内部频道。
+2. [[Catalyst 个人许可证#获取您的 Discord 徽章|获取您的 Discord 徽章]]以访问内部频道。
 3. 打开 Discord。
 4. 在`#insider-mobile-release`频道中，打开**固定信息**。
    - 在桌面上，选择右上角的图钉图标。
