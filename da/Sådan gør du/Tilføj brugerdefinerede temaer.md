@@ -6,24 +6,24 @@ Hvis du vil tilføje brugerdefinerede typografier eller temaer til din boks, er 
 
 Temaer tillader dig at skifte udseendet af din boks via en rullemenu, når de er tilføjet til din temamappe i din boks.
 
-Denne konfiguration kan findes i sektionen "Indstillinger -> Udseende -> Temaer" i dine boks indstillinger.
+Denne konfiguration kan findes i sektionen "Indstillinger → Udseende → Temaer" i dine boks indstillinger.
 
-### Oprette et brugerdefineret tema
+### Opret et brugerdefineret tema
 
 Hvis du vil oprette dit eget tema, kan du gøre det sådan:
 
 1. Opret din tema CSS fil i boksens tema mappe `DIN_BOKS/.obsidian/themes/DIT_BRUGERDEFINEREDE_TEMA.css`
-2. Aktiver dit tema i rullemenuen i sektionen "Indstillinger -> Udseende -> Temaer" i dine boks indstillinger.
+2. Aktiver dit tema i rullemenuen i sektionen "Indstillinger → Udseende → Temaer" i dine boks indstillinger.
 
 Ønsker du mere information om at tilpasse grafens udseende, så kan du finde den her: [[Grafvisning]].
 
 ### Benyt teamer og/eller CSS kodestykker
 
-Du kan finde denne konfiguration under "Udseende" i indstillingerne. Du kan vælge et fællesskabs tema eller angive et tema, som du selv har udviklet. Hvis du vælger et fællesskabstema, vil det blive placeret automatisk i den rigtige mappe. Hvis du udvikler dit eget tema, skal du selv lægge det i den angivne mappe destination.
+Du kan finde denne konfigurations mulighed under **Indstillinger** → **Udseende**. Du kan vælge et fællesskabs tema eller angive et tema, som du selv har udviklet. Hvis du vælger et fællesskabstema, vil det blive placeret automatisk i den rigtige mappe. Hvis du udvikler dit eget tema, skal du selv lægge det i den angivne mappe destination.
 
-CCS kodestykker er til små stykker CSS kode til små ændringer eller til små tilføjelser du ønsker. De kodestykker skal placeres i den angivne mappe.
+CCS kodestykker er til små stykker CSS kode til små ændringer eller til små tilføjelser du tænke dig at lave til standardtemaet eller et fællsskabstema. De kodestykker skal placeres i `/.obsidian/snippets` mappen.
 
-Du kan gå til de respektive mapper ved at klikke på mappeknapperne. Hvis mappen ikke er oprette endnu, vil den blive det. Hvis dit CSS kodestykke eller tema ikke bliver anvendt efter du har lagt dem der, kan du klikke på knappen ved siden af mappeikonet for at genopfriske listen.
+Du kan åbne de respektive mapper ved at klikke på mappeknapperne under instillingerne til **Udseende**. Hvis mappen ikke er oprette endnu, vil den blive det. Hvis dit CSS kodestykke eller tema ikke bliver anvendt efter du har lagt dem der, kan du klikke på knappen ved siden af mappeikonet for at genopfriske listen.
 
 ## Obsidian Publish typografier
 

@@ -1,82 +1,149 @@
-![[Search.png]]
+The Search plugin helps you find files in your vault.
 
-Search is a powerful feature, and has the potential to be confusing. In most cases, if you just type what you want to find, it will work. But search has many capabilities for narrowing down to find exactly what you want.
+By default, you can find Search in the left sidebar (magnifying glass icon). You can also open Search by pressing `Ctrl+Shift+F` (or `Cmd+Shift+F` on macOS).
 
-## Quick tips
+- **Search selected text**: If you select text in the editor and open Search with the keyboard shortcut, Search shows you the search results for the selected text.
+- **Search recent search terms**: Open Search with an empty search term to list recent search terms. Click any of them to use the search term again.
 
-### Start searching
+## Search terms
 
-You can invoke search by pressing `Ctrl-Shift-F` or `Cmd-Shift-F`. You can also customize this hotkey in Settings => Hotkeys. When search is invoked, focus will be automatically put in the search bar so you can start typing your query right away.
+A search term is the word or phrase that you enter in the search field. Learning how to write search terms effectively can help you quickly find what you're looking for, even in large vaults. Obsidian only searches the contents of notes and canvases.
 
-### Search selected text
+> [!tip] Searching paths and filenames
+> By default, you can only search the paths and filenames of notes and canvases. To search for a path or filename of any file in the vault, use the `path` or `file` operator.
 
-After you select text, you can search for it by simply invoking search like above.
+Each word in the search term is matched independently within each file. To search for an exact phrase, surround it with quotes, for example `"star wars"`. To search for quoted text within an exact phrase, you can _escape_ the quotes by adding a backslash (`\`) in front of the quote, for example `"they said \"hello\" to each other"`.
 
-## Search history
+You can control whether to return files that contain _all_ the words in your search term, or _any_ of the words:
 
-Obsidian will remember your most recently used search queries.
+- `meeting work` returns files that contain both `meeting` and `work`.
+- `meeting OR work` returns files that contain either `meeting` or `work`.
 
-These queries will be presented to you when your search query is empty. You can click on any one of them to search for it again, allowing you to easily re-run previous queries.
+You can even combine the two in the same search term.
 
-To clear search history, simply click on the "X" button.
+- `meeting work OR meetup personal` returns files for work meetings and personal meetups.
 
-## Search Settings
+You can use parentheses to control the priority of each expression.
 
-There are a couple of toggles available while searching:
+- `meeting (work OR meetup) personal` returns files that contain `meeting`, `personal`, and either `work` or `meetup`.
 
-- `Match case` toggle case sensitive matching, but note that it can be overridden on a per-search basis using the `match-case:` and `ignore-case:` operators explained above.
-- `Explain search term` will show you what the search query actually does in plain terms.
-- `Collapse results` will toggle between just showing matching note names and showing the lines in which matches appear. These extended results can be toggled for each note by clicking on the folding triangle next to the file name.
-- `Show more context` will expand the display of the matches to show more text around the match.
-- `Change sort order` sorts the results by various orders, similar to how files are sorted in the [[File explorer]].
+To exclude, or negate, a word from the search results, add a hyphen (`-`) in front of it:
+
+- `meeting -work` returns files that contain `meeting` but not `work`.
+
+You can exclude multiple expressions:
+
+- `meeting -work -meetup` returns files that contain `meeting` but not `work` or `meetup`.
+
+You can exclude a combination of expressions using parentheses:
+
+- `meeting -(work meetup)` returns files that contain `meeting` but not _both_ `work` and `meetup`.
+
+> [!tip] Explain search term
+> If you need to troubleshoot a complex search term, you can click **Explain search term** in Search for an explanation of your search term.
+
+## Search operators
+
+Search operators enable more fine-grained search queries to filter your results even more.
+
+Some operators even allow you to add a nested search term within parentheses, for example: `task:(call OR email)`.
+
+| Search operator | Description                                                                                                                                                                                                          |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `file:`         | Find text in filename. Matches any file in the vault.<p/>Example: `file:.jpg` or `file:202209`.                                                                                                                                                     |
+| `path:`         | Find text in file path. Matches any file in the vault.<p/>Example: `path:"Daily notes/2022-07"`.                                                                                                                                                    |
+| `content:`      | Find text in file content.<p/>Example: `content:"happy cat"`.                                                                                                                                                        |
+| `match-case:`   | Case-sensitive match.<p/>Example: `match-case:HappyCat`.                                                                                                                                                             |
+| `ignore-case:`  | Case-insensitive match.<p/>Example: `ignore-case:ikea`.                                                                                                                                                              |
+| `tag:`          | Find tag in file.<p/>Example: `tag:#work`.<p/>**Note**: Since `tag:` ignores matches in code blocks and in non-Markdown content, it's often faster and more accurate than a normal full-text search for `#work`.     |
+| `line:`         | Find matches on the same line.<p/>Example: `line:(mix flour)`.                                                                                                                                                       |
+| `block:`        | Find matches in the same block.<p/>Example: `block:(dog cat)`.<p/>**Note**: Since `block:` requires Search to parse the Markdown content in every file, it can cause your search term to take longer time to finish. |
+| `section:`      | Find matches in the same section (text between two headings).<p/>Example: `section:(dog cat)`.                                                                                                                         |
+| `task:`         | Find matches in a [[Basic formatting syntax#Task lists\|task]] on a block-by-block basis.<p/>Example: `task:call`.                                                                                                          |
+| `task-todo:`    | Find matches in an *uncompleted* [[Basic formatting syntax#Task lists\|task]] on a block-by-block basis.<p/>Example: `task-todo:call`.                                                                                      |
+| `task-done:`    | Find matches in a *completed* [[Basic formatting syntax#Task lists\|task]] on a block-by-block basis.<p/>Example: `task-done:call`.                                                                                         |
+
+## Search properties
+
+You can use data stored in [[Properties]] in your search terms.
+
+Use brackets around a property name `[property]` to return files with that property:
+
+- `[aliases]` returns files that contain the `aliases` property
+  
+Use brackets and a colon `[property:value]` to return files with that property and value:
+
+- `[aliases:Name]` returns files where the `aliases` property value is `Name`
+
+Both property and value allow sub-queries, such as parentheses for grouping, the `OR` operator, double-quotes for exact matching, and regex.
+
+- Example: `[status:Draft OR Published]` to find returns files where the `status` property value is `Draft` or `Published`
+
+## Change case sensitivity
+
+By default, search terms are not case sensitive. If you want to search for the exact case of your search term, click **Match case** ("Aa" icon) inside the search bar.
+
+This setting can be toggled. If **Match case** icon is highlighted, that means you’re currently doing a case sensitive search.
+
+## Change result sort order
+
+1. Enter a [[#Search terms|search term]].
+2. Under the search field, click on the dropdown on the right.
+3. Select the sort order you want. Default is "File name (A to Z)".
+
+The following options are available:
+
+- File name (A to Z)
+- File name (Z to A)
+- Modified time (new to old)
+- Modified time (old to new)
+- Created time (new to old)
+- Created time (old to new)
 
 ## Copy search results
 
-To quickly and easily take your search results to a list, use the "copy search result" option.
+1. Enter a [[#Search terms|search term]].
+2. Under the search field, select the three dots icon next to the number of results.
+3. Select **Copy search results**.
 
-You can customize whether you want to show paths, which link style to use (wikilink or Markdown link), and how you want your list to appear.
+## Use regular expressions
 
-## Embed search results
+A regular expression is a set of characters that describe a text pattern. To use regular expressions in your search term, surround the expression with forward slashes (`/`).
 
-You can embed search results in a note.
+- `/\d{4}-\d{2}-\d{2}/` matches an ISO 8601 date, such as 2022-01-01.
 
-For example, if you write:
+You can even combine regular expressions with search operators:
+
+- `path:/\d{4}-\d{2}-\d{2}/` returns files with a date in the file path.
+
+For more information on how to write regular expressions, refer to [Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+
+> [!note]
+> Regular expressions come in different flavors that may look different from each other. Obsidian uses JavaScript-flavored regular expressions.
+
+## Configure search settings
+
+To configure Search, click on **Search settings** (three rows of switches icon) on the right side of the search bar to see the toggles.
+
+| Setting                 | Description                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|
+| **Explain search term** | Breaks down the search terms and explains it in plain text.                 |
+| **Collapse results**    | Toggles whether to show the search context.                                 |
+| **Show more context**   | Expands the search result to show more text around the match.               |
+
+## Embed search results in a note
+
+To embed search results in a note, add a `query` code block:
 
 <pre><code>```query
 embed OR search
 ```</code></pre>
 
-You should see this embedded search view (note: it doesn't work on [[Introduction to Obsidian Publish|Obsidian Publish]] as of 2020/01/18):
+For example:
+
+> [!note]
+> [[Introduction to Obsidian Publish|Obsidian Publish]] doesn't support embedded search results. To see the example, open Obsidian Help locally inside Obsidian.
 
 ```query
 embed OR search
 ```
-
-## Search syntax
-
-### Combining sub-queries
-
-When crafting a search query, remember that clicking "Explain Search Term" will give an explanation of what is being searched for, which can be very useful when debugging a complicated search.
-
-- Words in the search query separated by space will be searched independently in each note. For example `foo bar` will find a note that includes both `foo` and `bar` anywhere in it.
-- `"Quoted strings"` can be used to search multiple consecutive words separated by space, or in other words, a phrase. So, searching for `"foo bar"` with quotes will only find notes that include those words next to each other. You can use backslash `\"` to escape double quotes if you actually want to search for a string that includes quotes. And `\\` will do the same for backslash.
-- Boolean operations can be used. Use `OR` to match one or another. Use `-` to negate a query. The space character is used for boolean "and".
-	- For example: `foo OR bar` will find all notes that contain either of those words, they don't have to be in the same note. `foo -bar` will find all notes that contain `foo`, but not if they also contain `bar`.
-- Parenthesis can be used to group boolean operations. For example `((a OR b) (c OR d))`. This can be useful when crafting complex searches to make sure things happen in the order you want.
-- Regular expressions (regex) can now be used in search. Use forward slash to denote a regular expression. For example: `/[a-z]{3}/`. Obsidian accepts the JavaScript flavor regular expressions. You can learn more about it [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions).
-
-### Search operators
-
-Several special operators are available. Some operators allow nesting queries using parenthesis, for example: `file:("to be" OR -"2B")`. You can use `-` to exclude specific results from search, for example: `foo -tag:#bar`.
-
-- `file:(...)` will perform the following subquery on the file name. For example: `file:.jpg`. If you use Zettelkasten-style UIDs, this can be useful for narrowing a time range, for example `file:202007`for files created in July of 2020.
-- `path:(...)` will perform the following subquery on the file path, absolute from the root. For example: `path:"Daily Notes/2020-07"`.
-- `content:(...)` will perform the following subquery on the file content. For example: `content:"happy cat"`.
-- `match-case:(...)` and `ignore-case(...):` will override the case sensitive match logic for the following subquery.
-- `tag:` will search for your specified tag within a file, for example `tag:#work`. This is faster and more accurate than searching for the tag in plaintext `#work`, as it uses the cached information and ignores text in code blocks and sections that aren't markdown text.
-- `line:(...)` will perform the subquery on a line-by-line basis, rather than a file-by-file basis. For example, if you search for `foo bar`, this could match a file that has `foo` in the first paragraph and `bar` in the last paragraph. Searching for `line:(foo bar)` will only match if `foo` and `bar` are on the same line.
-- `block:(...)` will perform the subquery on a block-by-block basis, where each block defined as a markdown block, typically separated by empty lines or list items. This is expensive computationally as it requires parsing each file, which means this is likely slower than other modes.
-- `section:(...)` will perform the subquery on a section-by-section basis, where each section is the text between two headings, including the first heading.
-- `task:(...)` will perform the subquery only on each [[Format your notes#Task list|task]] and on a block-by-block basis. Use `task:""` to match all tasks.
-- `task-todo:(...)` will perform the subquery only on each *uncompleted* [[Format your notes#Task list|task]] and on a block-by-block basis. Use `task-todo:""` to match all uncompleted tasks.
-- `task-done:(...)` will perform the subquery only on each *completed* [[Format your notes#Task list|task]] and on a block-by-block basis. Use `task-done:""` to match all completed tasks.

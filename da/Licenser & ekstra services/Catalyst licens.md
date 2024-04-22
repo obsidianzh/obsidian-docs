@@ -4,7 +4,7 @@ Obsidian er gratis til personlig brug. En Catalyst licens er en valgfri licens d
 2. Giver dig specielle badges på vores fællesskabsserver Discord og på vores internetforum og
 3. Den støtter udviklingen af Obsidian (Tak 💜!)
 
-Der er tre Catalyst licens niveauer: Insider ($25), Supporter($50), og VIP ($100) - og hver af dem giver dig [[Insider builds|adgang til insider builds]].
+Der er tre Catalyst licens niveauer: Insider ($25), Supporter($50), og VIP ($100) - og hver af dem giver dig [[Insider versioner|adgang til insider builds]].
  
 Bemærk at Catalyst er valgfri og ==giver dig ikke yderligere funktioner i applikationen==
 
@@ -16,7 +16,7 @@ Hvis du benytter Obsidian til arbejdsrelaterede aktiviteter kan det blive nødve
 
 ### Hvordan får jeg mine skinnende badges efter at jeg har opgraderet?
 
-Tillykke! Efter du har opgraderet kan du finde to knapper i "Catalyst" sektionen på "Indstillinger -> Konto" fanen.
+Tillykke! Efter du har opgraderet kan du finde to knapper i "Catalyst" sektionen på "Indstillinger → Konto" fanen.
 
 #### Discord badge
 
@@ -36,7 +36,7 @@ Bemærk at dit forum badge ikke er et "badge" i forum systemet, men et skinnende
 
 ### Hvad får jeg, når jeg betaler for en Catalyst licens?
 
-Du får adgang til vores [[Insider builds]]. Ud over det , hvis du får Supprter eller VIP niveauet får du adgang til en eksklusiv Discord kanal, hvor du kan skrive med udviklerne.
+Du får adgang til vores [[Insider versioner]]. Ud over det , hvis du får Supprter eller VIP niveauet får du adgang til en eksklusiv Discord kanal, hvor du kan skrive med udviklerne.
 
 Når vi laver en lukket beta med en ny feature (såsom mobil apps eller en Typora-lignende WYSIWYM redigeringstilstand), vil vi frigive betaen til VIPs, Supporters, Insiders, og bagefter alle andre, mens vi retter fejl og problemer undervejs.
 
