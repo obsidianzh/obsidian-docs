@@ -2,7 +2,7 @@ This page lists all supported ways to download and install Obsidian.
 
 ## Install Obsidian on Windows
 
-1. Open your browser and go to#.
+1. Open your browser and go to [Download Obsidian](https://obsidian.md/download).
 2. Under **Windows**, click **64-bit installer** to download the installation file.
 3. Open the installation file and follow the instructions.
 4. Open Obsidian the same way you would open any other application.
